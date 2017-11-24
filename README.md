@@ -1,6 +1,9 @@
 # DogFighters
+First Self-made Graphic Game
+
 自己写的第一个Java小游戏
-First Self-made Java Game
+
+Language: Java
 
 最新版本V1.5版本已发布！
 
