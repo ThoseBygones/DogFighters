@@ -1,9 +1,14 @@
 # DogFighters
 First Self-made Graphic Game
 
-自己写的第一个Java小游戏
-
 Language: Java
+
+
+自己写的第一个Java小游戏，算是学习Java的一个小练习吧
+
+编程语言：Java
+
+源代码来自“蓝桥杯”公众号，但自己进行了部分修改
 
 最新版本V1.5版本已发布！
 
